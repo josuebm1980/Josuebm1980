@@ -3,7 +3,7 @@
 
 I am currently freelancer.
 
-I'm learning at the moment **React, ReactJS**
+I'm learning at the moment **ReactNative, ReactJS**
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-JosuéMoraes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://linkedin.com/in/josu%C3%A9-moraes-91a57a34/)](https://linkedin.com/in/josu%C3%A9-moraes-91a57a34/)
