@@ -1,5 +1,5 @@
 <h1 align = "justify"> Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I am Josué Moraes</h1>
-<p align = "justify">I'm a front-end developer, wine and cheese lover, PHP fan, I'm creative and I love to discover new things, expert in HTML, CSS3 and JS.</p>
+<p align = "justify">I'm a PHP Web Developer, wine and cheese lover, PHP fan, I'm creative and I love to discover new things, expert in HTML, CSS3 and JS.</p>
 
 I am currently freelancer.
 
