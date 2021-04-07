@@ -24,4 +24,4 @@ I'm learning at the moment **ReactNative, ReactJS**
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
-[! [Estatísticas GitHub de Anurag] (https://github-readme-stats.vercel.app/api ? Username = josuebm1980 )] (https://github.com/anuraghazra/github-readme-stats)
+![Estatísticas GitHub de Anurag] (https://github-readme-stats.vercel.app/api ? Username = josuebm1980 )] (https://github.com/josuebm1980/github-readme-stats)
